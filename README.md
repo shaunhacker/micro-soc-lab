@@ -1,3 +1,91 @@
+Skip to content
+shaunhacker
+micro-soc-lab
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+Files
+Go to file
+t
+T
+README.md
+micro-soc-lab
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
 # 🛡️ Micro SIEM & SOAR Laboratory
 
 An event-driven, lightweight Security Operations Center (SOC) lab built to demonstrate real-time log ingestion, detection engineering, and automated incident enrichment/containment within containerized, memory-constrained environments (<50 MB RAM footprint).
@@ -48,3 +136,8 @@ curl -X POST [https://YOUR-APP-URL.onrender.com/api/ingest](https://YOUR-APP-URL
         "details": "Multiple failed SSH authentication attempts detected."
       }'
 ⚙️ Environment VariablesVariableDescriptionRequired?VIRUSTOTAL_API_KEYVirusTotal API Key for real-time IP threat intelligence lookupsOptional (Fallback mode active if absent)PORTContainer binding port (Defaults to 5000)Optional
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing micro-soc-lab/README.md at main · shaunhacker/micro-soc-lab 
